@@ -1,0 +1,11 @@
+The project contains a program written in the Leafpad editor that sums the numbers from 1 to n, where n is a predefined integer.
+
+The code is compiled using GCC, and the output is produced with ./a.out.
+
+Additionally, the same code is compiled for RISC-V architecture with two optimization methods: -O1 and -Ofast.
+
+-O1: Balances between code size and execution speed, performs basic optimizations, and generates a moderate amount of assembly code.
+
+-Ofast: Maximizes execution speed, enables aggressive optimizations, and generates fewer assembly code lines.
+
+For more control and clarity, use -O1. If speed is your ultimate goal, -Ofast is recommended.
