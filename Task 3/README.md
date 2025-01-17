@@ -85,6 +85,8 @@ RISC-V instructions are encoded using various formats, each tailored for specifi
 
 
 
+
+
 **1. `addi sp, sp, -48`**
 
 * **Type:** I-type
