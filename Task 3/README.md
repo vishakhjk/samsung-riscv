@@ -4,6 +4,8 @@ This document provides a brief overview of the different instruction formats use
 
 ### Instruction Formats
 
+![RISC-V Instruction Formats]([https://example.com/your-image.png](https://devopedia.org/images/article/110/3808.1535301636.png))
+
 RISC-V instructions are encoded using various formats, each tailored for specific types of operations. The main formats are:
 
 **1. R-type (Register-Register)**
