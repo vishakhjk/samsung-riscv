@@ -4,7 +4,9 @@ This document provides a brief overview of the different instruction formats use
 
 ### Instruction Formats
 
-![RISC-V Instruction Formats]([D:\Project\Samsung\Tasks\Task 3\RISC-V Instruction Sets.png])
+
+![RISC-V Instruction Formats](https://devopedia.org/images/article/110/3808.1535301636.png)
+
 
 RISC-V instructions are encoded using various formats, each tailored for specific types of operations. The main formats are:
 
@@ -76,7 +78,12 @@ RISC-V instructions are encoded using various formats, each tailored for specifi
     - `rd` (5 bits): Destination register.
     - `opcode` (7 bits): Specifies the instruction type (U-type).
 
-### Instruction Examples
+### Instructions from the Image
+
+
+![RISC-V Instruction Formats]("main_factorial_O1.png")
+
+
 
 **1. `addi sp, sp, -48`**
 
