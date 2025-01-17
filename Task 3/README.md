@@ -81,7 +81,7 @@ RISC-V instructions are encoded using various formats, each tailored for specifi
 ### Instructions from the Image
 
 
-![RISC-V Instruction Formats]("D:\Project\Samsung\Tasks\Task 2\Factorial_Code\main_factorial_O1.png")
+![Factorial_Code_O1](https://github.com/user-attachments/assets/be6b79d4-9470-4856-933b-a54061e995d1)
 
 
 
