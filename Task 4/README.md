@@ -32,9 +32,9 @@ Instead of writing the Verilog code manually, clone the reference GitHub reposit
 
 **Reference GitHub Repository:** `iiitb_rv32i`
 
-![main_code](https://drive.google.com/file/d/1z_QjJ4YEicvC9OnudZ2KBRTUHZVXFujb/view?usp=drive_link)
+![main_code](https://drive.google.com/file/d/1z_QjJ4YEicvC9OnudZ2KBRTUHZVXFujb/view?usp=sharing)
 
-![testbench](https://drive.google.com/file/d/1aPYxZ40UWd22RF5V7h4mbZOQ4iwF_d2N/view?usp=drive_link)
+![testbench](https://drive.google.com/file/d/1aPYxZ40UWd22RF5V7h4mbZOQ4iwF_d2N/view?usp=sharing)
 
 ### 4. Compile the Verilog Code
 Run the following command to compile the Verilog design and generate a Value Change Dump (VCD) file:
